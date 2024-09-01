@@ -16,7 +16,8 @@
 
 ## 二、系统效果图片展示
 ![img_09_01_20_47_28](https://github.com/user-attachments/assets/7f98cf43-7182-4a06-b4a1-bedba2c11407)
-![img_09_01_20_47_28](https://github.com/user-attachments/assets/8fa0f5c5-8916-410b-897a-8260b19b9ec1)
+![img_09_01_20_47_32](https://github.com/user-attachments/assets/0030b3a2-93c9-4950-8558-01d3f93f8d86)
+
 ![img_09_01_20_47_32](https://github.com/user-attachments/assets/c8fe7826-7afd-45e8-9f9b-b7dbd5351e25)
 ![img_09_01_20_48_25](https://github.com/user-attachments/assets/a65fee6f-7c39-4526-9ee2-903ed038b4d5)
 
